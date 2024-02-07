@@ -17,3 +17,16 @@ Content-Encoding: br
 /*.symbols.json.br
 Content-Type: application/octet-stream
 Content-Encoding: br
+
+
+/*.data.gz
+Content-Type: application/gzip 
+
+/*.wasm.gz
+Content-Type: application/wasm
+
+/*.js.gz
+Content-Type: application/javascript 
+
+/*.symbols.json.gz
+Content-Type: application/octet-stream

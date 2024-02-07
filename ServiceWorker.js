@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-ZeroDark-0.1.0";
 const contentToCache = [
     "Build/wgl-no-df.loader.js",
-    "Build/wgl-no-df.framework.js.br",
-    "Build/wgl-no-df.data.br",
-    "Build/wgl-no-df.wasm.br",
+    "Build/wgl-no-df.framework.js",
+    "Build/wgl-no-df.data",
+    "Build/wgl-no-df.wasm",
     "TemplateData/style.css"
 
 ];
